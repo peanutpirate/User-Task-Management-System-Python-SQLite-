@@ -1,5 +1,5 @@
 # 🗂️ User & Task Management System (Python + SQLite)
-
+![Project Banner](project-banner.png)
 A simple **Command Line Interface (CLI)** application built with Python that allows users to register and manage their tasks using a local SQLite database.
 
 This project demonstrates how Python can be used to build a **basic backend-like system** with persistent data storage.
